@@ -1,0 +1,20 @@
+.prostokat {
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-top: 10%;
+    border: solid;
+    border-top-color: red;
+    border-left-color: blue;
+    border-bottom-color: green;
+    border-right-color: rgb(230, 39, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.prostokat p {
+    text-align: center;
+    margin: 0;
+    
+}
